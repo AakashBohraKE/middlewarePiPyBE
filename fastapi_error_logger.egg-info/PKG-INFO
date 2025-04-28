@@ -1,3 +1,27 @@
+Metadata-Version: 2.4
+Name: fastapi_error_logger
+Version: 0.1.0
+Summary: A FastAPI middleware for comprehensive error logging
+Home-page: https://github.com/yourusername/fastapi_error_logger
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi>=0.109.2
+Requires-Dist: starlette>=0.36.3
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # FastAPI Error Logger
 
 A FastAPI middleware for comprehensive error logging that captures API errors, request information, and system details.
